@@ -21,13 +21,18 @@
 <p align="left">
 <a href="https://twitter.com/gergis_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gergis_k" height="30" width="40" /></a>
 <br>
+<br>
 <a href="https://linkedin.com/in/gergis-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gergis-k" height="30" width="40" /></a>
+<br>
 <br>
 <a href="https://fb.com/ger.ges.31924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ger.ges.31924" height="30" width="40" /></a>
 <br>
+<br>
 <a href="https://instagram.com/gergis_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gergis_k" height="30" width="40" /></a>
 <br>
+<br>
 <a href="https://www.youtube.com/c/gergis adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gergis adel" height="30" width="40" /></a>
+<br>
 <br>
 <a href="https://codeforces.com/profile/gerges990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gerges990" height="30" width="40" /></a>
 </p>
