@@ -1,14 +1,10 @@
-# Hi 👋! I'm Gergis Adel
+# Hey 👋, This is Gergis Adel
+
+## A full stack web developer
 
 ###
 
-### A full stack web developer
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gergis-k.gergis-k&"  />
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-girgism91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:girgism91@gmail.com)](mailto:girgism91@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-gergisk-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gergisk/)](https://www.linkedin.com/in/gergisk/) [![Github Badge](https://img.shields.io/badge/-gergisk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gergisk/)](https://www.github.com/gergisk/) [![Twitter Badge](https://img.shields.io/badge/-gergis_k-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gergis_k/)](https://www.twitter.com/gergis_k/)
 
 ###
 
@@ -19,13 +15,6 @@
 - 📫 How to reach me **girgism91@gmail.com**<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/gergis-k/](https://www.linkedin.com/in/gergis-k/)<br><br>
 - ⚡ Fun fact **I think I'm funny but I'm a bit shy**
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=gergis-k" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&username=gergis-k" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -61,30 +50,8 @@
 
 ###
 
-<br clear="both">
+## Some of my Github Stats
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif"  />
-</div>
+<p align=left> <img src="https://komarev.com/ghpvc/?username=gergisk" alt="gergisk" /> </p>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gergis-k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/gergis_k" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCGlKxvugMkkeZg3VW9d-3Vg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/ger.ges.31924" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/gergis_k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+[![Github stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=gergis-k)](https://github.com/gergisk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&username=gergis-k)](https://github.com/gergisk/github-readme-stats)
