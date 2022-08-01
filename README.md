@@ -2,6 +2,11 @@
 
 ## A full stack web developer
 
+Hello everyone, i'm Gergis Adel from Egypt - Proud to be Egyptian.
+I aspire to be a software engineer, enhance my skills, and build a long-term career with opportunities for career growth.
+I prefer to keep learning, continue challenging myself, and do interesting things that matter. I’m a fast learner, able to pick up new skills and juggle different projects and roles with relative ease. I have experience in multiple programming languages (C, C++, C#, Python, TypeScript, and JavaScript).
+
+
 ###
 
 [![Gmail Badge](https://img.shields.io/badge/-girgism91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:girgism91@gmail.com)](mailto:girgism91@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-gergisk-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gergisk/)](https://www.linkedin.com/in/gergis-k/) [![Github Badge](https://img.shields.io/badge/-gergisk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gergisk/)](https://github.com/gergis-k/) [![Twitter Badge](https://img.shields.io/badge/-gergis_k-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gergis_k/)](https://www.twitter.com/gergis_k/)
