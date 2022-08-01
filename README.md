@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! I'm Gergis Adel</h1>
+# Hi 👋! I'm Gergis Adel
 
 ###
 
-<h3 align="center">A full stack web developer</h3>
+### A full stack web developer
 
 ###
 
@@ -12,8 +12,6 @@
 
 ###
 
-<p align="left">
-
 - 🌱 I’m currently learning **asp.net APIs + Angular, Machine Learning**<br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/gergis-k](https://github.com/gergis-k)<br><br>
 - 📝 I regularly write articles on [https://www.linkedin.com/in/gergis-k/](https://www.linkedin.com/in/gergis-k/)<br><br>
@@ -21,8 +19,6 @@
 - 📫 How to reach me **girgism91@gmail.com**<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/gergis-k/](https://www.linkedin.com/in/gergis-k/)<br><br>
 - ⚡ Fun fact **I think I'm funny but I'm a bit shy**
-
-</p>
 
 ###
 
