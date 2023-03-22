@@ -1,4 +1,4 @@
-# Hey 👋, This is Gergis Adel
+# Hey 👋, This is Girgis Adel
 
 ###
 
