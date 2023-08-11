@@ -1,8 +1,2 @@
-# Hey 👋, This is Girgis Adel
-
-###
-
-A full stack web developer (.Net + Angular)
-
-###
-
+# Girgis Adel
+Full-Stack Developer
